@@ -114,8 +114,8 @@ main {
 }
 
 .box .info {
-  background-color: darksalmon;
-  color: #fff;
+  background-color: rgba(255, 255, 255, 0.151);
+  color: rgb(73, 73, 73);
   font-size: 18px;
   letter-spacing: 1px;
   text-transform: uppercase;
